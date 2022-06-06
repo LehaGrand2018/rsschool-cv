@@ -1,0 +1,7 @@
+# **Aleksey** 
+# Contacts
+* __Location:__ Belarus, Minsk
+* __Phone:__ +375-44-4444444 (A1)
+* __Email:__ aleksey@yandex.by
+* __GitHub:__ [LehaGrand2018](https://github.com/LehaGrand2018)
+* __Discord:__ @LehaGrand2018 
