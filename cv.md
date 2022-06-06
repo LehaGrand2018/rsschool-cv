@@ -22,3 +22,10 @@
 # English
 * __*Common European Framework of Reference:* A2__
 * __*Belarusian centralized testing:* 87 points__ 
+
+# Code Example
+```
+function multiply (a, b) {
+    return(a * b);
+}
+```
