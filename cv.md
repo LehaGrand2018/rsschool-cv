@@ -18,3 +18,7 @@
 
 # About me
 ## I'm a student of RS School.
+
+# English
+* __*Common European Framework of Reference:* A2__
+* __*Belarusian centralized testing:* 87 points__ 
