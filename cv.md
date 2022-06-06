@@ -15,3 +15,6 @@
 * CSS
 * Git 
 * Editors: VSCode, Notepad++ 
+
+# About me
+## I'm a student of RS School.
